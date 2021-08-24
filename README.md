@@ -1,2 +1,4 @@
 # Hotel Management System
-### Esd 5 - Group 13
+### This is my mini-project on MongoDB.
+
+The deployed website can be viewed from this link: https://prajwal-2703.github.io/HotelManagementSystem/
