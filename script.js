@@ -1,5 +1,6 @@
 //const api_url = "<heroku_app_url>"
-const api_url = "https://hotelesd13.herokuapp.com/reservations"
+const api_url = "https://esd6-mevn.herokuapp.com/reservations"
+// const api_url = "https://hotelesd13.herokuapp.com/reservations"
 
 function loadData(records = []) {
 	var table_data = "";
